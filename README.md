@@ -1,6 +1,6 @@
 # EhrBERT
 
-EhrBERT is fine-tuned based on [BioBERT](https://github.com/dmis-lab/biobert) using 500K and 1M EHR notes. It is developed by the [UMASS BioNLP team](http://bio-nlp.org). It is available at [dropbox](https://www.dropbox.com/sh/e2zuh7692qr52ca/AAALDF8yZ2s73g4x-RIIogJHa?dl=0). Hope it will help your research.
+EhrBERT is fine-tuned based on [BioBERT](https://github.com/dmis-lab/biobert) using 500K and 1M EHR notes. It is developed by the [UMASS BioNLP team](http://bio-nlp.org). Currently it's not available due to the risk of privacy leak. If you are interested in it, please post an issue.
 
 Prerequisite
 -----
