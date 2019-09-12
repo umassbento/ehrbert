@@ -1,6 +1,6 @@
 # EhrBERT
 
-EhrBERT is fine-tuned based on [BioBERT](https://github.com/dmis-lab/biobert) using 500K and 1M EHR notes. It is developed by the [UMASS BioNLP team](http://bio-nlp.org). Currently it's not available due to the risk of privacy leak. If you are interested in it, please post an issue.
+EhrBERT is fine-tuned based on [BioBERT](https://github.com/dmis-lab/biobert) using 500K and 1M EHR notes. It is developed by the [UMASS BioNLP team](http://bio-nlp.org). Currently it's not available due to the risk of privacy leak. If you are interested in clinical version of BERT, we recommend using ClinicalBERT(https://github.com/EmilyAlsentzer/clinicalBERT) which was trained using public MIMIC data.
 
 Prerequisite
 -----
